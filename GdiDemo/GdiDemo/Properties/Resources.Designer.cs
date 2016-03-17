@@ -61,6 +61,15 @@ namespace GdiDemo.Properties {
         }
         
         /// <summary>
+        ///   查找类似 Jpeg图片|*.jpg|Png图片|*.png 的本地化字符串。
+        /// </summary>
+        internal static string PictureFilter {
+            get {
+                return ResourceManager.GetString("PictureFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap TextureBrushImg {

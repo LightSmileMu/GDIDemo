@@ -11,4 +11,5 @@ E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.pdb
 E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.MainForm.resources
 E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\bin\Debug\TX.Framework.dll
 E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.csprojResolveAssemblyReference.cache
-E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.Brush.BrushFrom.resources
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.Image.GdiImage.resources
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.Brush.BrushForm.resources

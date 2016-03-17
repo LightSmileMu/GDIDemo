@@ -31,6 +31,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.基础示例ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.画刷示例ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -47,7 +48,8 @@
             // 基础示例ToolStripMenuItem
             // 
             this.基础示例ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.画刷示例ToolStripMenuItem});
+            this.画刷示例ToolStripMenuItem,
+            this.toolStripMenuItem1});
             this.基础示例ToolStripMenuItem.Name = "基础示例ToolStripMenuItem";
             this.基础示例ToolStripMenuItem.Size = new System.Drawing.Size(68, 21);
             this.基础示例ToolStripMenuItem.Text = "基础示例";
@@ -58,6 +60,13 @@
             this.画刷示例ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.画刷示例ToolStripMenuItem.Text = "画刷示例";
             this.画刷示例ToolStripMenuItem.Click += new System.EventHandler(this.BrushToolStripMenuItem_Click);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.toolStripMenuItem1.Text = "图像示例";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // MainForm
             // 
@@ -82,6 +91,7 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem 基础示例ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 画刷示例ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
 
     }
 }

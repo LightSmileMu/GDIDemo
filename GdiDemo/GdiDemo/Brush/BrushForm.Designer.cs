@@ -1,6 +1,6 @@
 ﻿namespace GdiDemo.Brush
 {
-    partial class BrushFrom
+    partial class BrushForm
     {
         /// <summary>
         /// Required designer variable.
@@ -95,7 +95,7 @@
             this.路径渐变画刷ToolStripMenuItem.Text = "路径渐变画刷";
             this.路径渐变画刷ToolStripMenuItem.Click += new System.EventHandler(this.路径渐变画刷ToolStripMenuItem_Click);
             // 
-            // BrushFrom
+            // BrushForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -104,7 +104,7 @@
             this.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.Location = new System.Drawing.Point(0, 0);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "BrushFrom";
+            this.Name = "BrushForm";
             this.Text = "Brush";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

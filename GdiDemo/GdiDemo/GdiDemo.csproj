@@ -57,11 +57,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Brush\BrushFrom.cs">
+    <Compile Include="Brush\BrushForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Brush\BrushFrom.Designer.cs">
-      <DependentUpon>BrushFrom.cs</DependentUpon>
+    <Compile Include="Brush\BrushForm.Designer.cs">
+      <DependentUpon>BrushForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Image\GdiImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Image\GdiImage.Designer.cs">
+      <DependentUpon>GdiImage.cs</DependentUpon>
     </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
@@ -71,8 +77,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Brush\BrushFrom.resx">
-      <DependentUpon>BrushFrom.cs</DependentUpon>
+    <EmbeddedResource Include="Brush\BrushForm.resx">
+      <DependentUpon>BrushForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Image\GdiImage.resx">
+      <DependentUpon>GdiImage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
