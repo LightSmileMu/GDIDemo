@@ -1,0 +1,14 @@
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\bin\Debug\GdiDemo.exe.config
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\bin\Debug\GdiDemo.exe
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\bin\Debug\GdiDemo.pdb
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\bin\Debug\TX.Framework.WindowUI.dll
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.Properties.Resources.resources
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.csproj.GenerateResource.Cache
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.exe
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.pdb
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.MainForm.resources
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\bin\Debug\TX.Framework.dll
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.csprojResolveAssemblyReference.cache
+E:\Project\Demo\GitHubProject\GDIDemo\GdiDemo\GdiDemo\obj\x86\Debug\GdiDemo.Brush.BrushFrom.resources
