@@ -1,0 +1,7 @@
+E:\Project\Demo\GitHubProject\GDIDemo\ClassLibrary1\TestProject1\bin\Debug\TestProject1.dll
+E:\Project\Demo\GitHubProject\GDIDemo\ClassLibrary1\TestProject1\bin\Debug\TestProject1.pdb
+E:\Project\Demo\GitHubProject\GDIDemo\ClassLibrary1\TestProject1\bin\Debug\ClassLibrary1.dll
+E:\Project\Demo\GitHubProject\GDIDemo\ClassLibrary1\TestProject1\bin\Debug\ClassLibrary1.pdb
+E:\Project\Demo\GitHubProject\GDIDemo\ClassLibrary1\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+E:\Project\Demo\GitHubProject\GDIDemo\ClassLibrary1\TestProject1\obj\Debug\TestProject1.dll
+E:\Project\Demo\GitHubProject\GDIDemo\ClassLibrary1\TestProject1\obj\Debug\TestProject1.pdb
